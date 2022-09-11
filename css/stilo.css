@@ -4,11 +4,16 @@
 
 .lista-1{
     background: #123456;
+    margin: 40px;
 }
 .lista-2{
-    background: #2b7ccd
+    background: #2b7ccd;
+    margin: 40px;
 }
     
+.texto-1{
+    margin: 40px;
+}
 
 
 
